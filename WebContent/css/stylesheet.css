@@ -1,0 +1,228 @@
+body {
+	font-family: 'Chela One', cursive;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	margin: 0px;
+	/* 	background-color: lavender;
+ */
+	cursor: default;
+	background-repeat: no-repeat;
+}
+
+div#footer {
+	margin-left: 30%;
+	margin-right: 30%;
+	/*
+    border: #0c5460 solid 5px;
+    */
+	width: 40%;
+	text-align: center;
+}
+
+h2#ribbon {
+	background-color: #1b1e21;
+	color: White;
+	margin-top: 0px;
+	text-align: center;
+	padding: 5px;
+	margin-bottom: 0px;
+}
+
+.form-group.required .control-label:after {
+	content: "*";
+	color: red;
+}
+
+p#contact-info {
+	font-size: 30px;
+	margin-top: 20px;
+	text-align: center;
+	position: center;
+	margin: auto;
+}
+
+input#adh {
+	width: 500px;
+}
+
+p#ab-info {
+	font-size: 30px;
+	width: 20%;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+p#dash-info {
+	font-size: 30px;
+	width: 50%;
+	margin-top: 100px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+p#callback-text {
+	font-size: 25px;
+	margin-top: 20px;
+	text-align: center;
+	position: center;
+}
+
+p#news {
+	margin-left: 30px;
+	margin-top: 20px;
+	/*    border: red dashed 5px;*/
+}
+
+p#weather {
+	margin-left: 30px;
+	margin-top: 20px;
+	border: green dashed 5px;
+}
+
+table#contact-form {
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table#login-form {
+	margin-top: 50px;
+	text-align: right;
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td#terms {
+	padding: 12px;
+	font-size: 25px;
+	text-align: center;
+}
+
+td:not(button) {
+	padding: 20px;
+	font-size: 25px;
+}
+
+select#ptype {
+	width: 300px;
+}
+
+div#footer2 {
+	margin-left: 35%;
+	margin-right: 35%;
+	width: 30%;
+	text-align: center;
+	align: center;
+	align-content: center;
+	border: red solid 5px;
+}
+
+div#uid {
+	margin-top: 50px;
+}
+
+table#con {
+	position: center;
+	margin: auto;
+}
+
+th {
+	font-size: 30px;
+	text-align: center;
+}
+
+table#signup-form {
+	font-size: 30px;
+	margin-top: 10px;
+	text-align: center;
+	width: 70%;
+	margin-left: 15%;
+}
+
+table#signup-form td {
+	text-align: right;
+}
+
+p#ab-us {
+	text-align: center;
+	font-size: 25px;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p#con-text {
+	margin-top: 40px;
+	font-weight: bold;
+	text-align: center;
+	font-size: 30px;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-weight: bold;
+}
+
+div.content {
+	margin-top: 50px;
+}
+
+#banner {
+	z-index: 1;
+	width: 100%;
+	margin-top: 0px;
+	/* position: fixed; */
+}
+
+.bottom {
+	margin-left: 45%;
+	margin-right: 45%;
+	width: 10%;
+	margin-top: 300px;
+}
+
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button
+	{
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	margin: 0;
+}
+
+/* Style inputs, select elements and textareas */
+input[type=text], [type=number], [type=password], [type=email], select {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	resize: vertical;
+}
+
+div#quote1 {
+	margin-top: 40px;
+	width: 75%;
+	height: 50%;
+	margin-left: 50px;
+}
+
+table#quote1 td {
+	height: 50px;
+	padding: 2px;
+	font-size: 15px;
+}
+
+div#tests {
+	margin-top: 300px;
+}
+
+input#vnum {
+	width: 350px;
+}
+
+#buy {
+	visibility: hidden;
+}
